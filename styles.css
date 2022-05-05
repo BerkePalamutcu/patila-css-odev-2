@@ -1,0 +1,62 @@
+body {
+	display: block;
+	background-color: white;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+#imgcontainer {
+	display: block;
+	text-align: center;
+}
+
+#inputcontainer {
+	background-color: #eeeeee;
+	width: auto;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+}
+
+#searchbar {
+	width: 371px;
+	overflow: hidden;
+}
+#buttons {
+	display: block;
+	text-align: center;
+	background-color: #eeeeee;
+	border-spacing: 2px;
+}
+
+#specialsearch {
+	vertical-align: center;
+	border-spacing: 5px;
+	display: table-cell;
+	width: 37%;
+	height: 76px;
+	background-color: #7ee5da;
+	text-align: center;
+	line-height: 25px;
+}
+#links {
+	padding: 5px;
+	border-spacing: 5px;
+	display: table-cell;
+	width: 236px;
+	height: 64px;
+	background-color: #70ccc2;
+	text-align: center;
+}
+#subscribe {
+	vertical-align: inherit;
+	padding: 5px;
+	border-spacing: 5px;
+	display: table-cell;
+	width: 521px;
+	background-color: #62b3aa;
+	text-align: center;
+	line-height: 25px;
+}
+p {
+	text-align: center;
+}
